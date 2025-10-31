@@ -18,4 +18,13 @@
 - [官网](https://www.oracle.com/cn/java/)
 - [二进制下载](https://www.oracle.com/java/technologies/downloads/)
 
+##### ninja
+- [官网](https://ninja-build.org/)
+- [二进制下载](https://github.com/ninja-build/ninja/releases)
+- [github](https://github.com/ninja-build/ninja)
+
+##### mysql
+- [官网](https://www.mysql.com/)
+- [二进制下载](https://dev.mysql.com/downloads/mysql/)
+
 ### 库
