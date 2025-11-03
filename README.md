@@ -27,4 +27,9 @@
 - [官网](https://www.mysql.com/)
 - [二进制下载](https://dev.mysql.com/downloads/mysql/)
 
+##### bazel
+- [官网](https://bazel.build/)
+- [二进制下载](https://github.com/bazelbuild/bazel/releases/)
+- [github](htts://github.com/bazelbuild/bazel)
+
 ### 库
