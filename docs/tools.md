@@ -28,7 +28,7 @@
 ### [bazel](https://github.com/JackChenCJ/JC/releases/tag/bazel)
 - [官网](https://bazel.build/)
 - [二进制下载](https://github.com/bazelbuild/bazel/releases/)
-- [github](htts://github.com/bazelbuild/bazel)
+- [github](https://github.com/bazelbuild/bazel)
 
 ### [meson](https://github.com/JackChenCJ/JC/releases/tag/meson)
 - [官网](https://mesonbuild.com/)
