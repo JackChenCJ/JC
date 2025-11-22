@@ -34,3 +34,25 @@
 - [官网](https://mesonbuild.com/)
 - [二进制下载](https://github.com/mesonbuild/meson/releases)
 - [github](https://github.com/mesonbuild/meson)
+
+### [ndk](https://github.com/JackChenCJ/JC/releases/tag/ndk)
+- [官方](https://developer.android.com/ndk)
+- [二进制下载](https://developer.android.com/ndk/downloads)
+- [github](https://github.com/android/ndk)
+
+### [msys2](https://github.com/JackChenCJ/JC/releases/tag/msys2)
+- [官方](https://www.msys2.org/)
+- [二进制下载](https://repo.msys2.org/distrib/x86_64/)
+- [依赖包下载](https://repo.msys2.org/msys/x86_64/)
+- [github](https://github.com/msys2)
+
+### [perl](https://github.com/JackChenCJ/JC/releases/tag/perl)
+- [官方](https://www.perl.org/)
+- [官方 windows](https://strawberryperl.com/)
+- [二进制下载](https://strawberryperl.com/releases.html)
+- [github](https://github.com/Perl/perl5)
+
+### [nasm](https://github.com/JackChenCJ/JC/releases/tag/nasm)
+- [官方](https://www.nasm.us/)
+- [二进制下载](https://www.nasm.us/pub/nasm/releasebuilds/)
+- [github](https://github.com/netwide-assembler/nasm)
