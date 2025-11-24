@@ -56,3 +56,8 @@
 - [官方](https://www.nasm.us/)
 - [二进制下载](https://www.nasm.us/pub/nasm/releasebuilds/)
 - [github](https://github.com/netwide-assembler/nasm)
+
+### [vswhere](https://github.com/JackChenCJ/JC/releases/tag/vswhere)
+- [官方](https://learn.microsoft.com/en-us/visualstudio/install/tools-for-managing-visual-studio-instances?view=visualstudio)
+- [二进制下载](https://github.com/microsoft/vswhere/releases)
+- [github](https://github.com/microsoft/vswhere)
