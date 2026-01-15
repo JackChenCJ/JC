@@ -62,7 +62,7 @@
 - [二进制下载](https://github.com/microsoft/vswhere/releases)
 - [github](https://github.com/microsoft/vswhere)
 
-### [clang](https://github.com/JackChenCJ/JC/releases/tag/clang)
-- [官方](https://github.com/llvm/llvm-project)
-- [二进制下载](https://github.com/llvm/llvm-project/releases)
-- [github](https://github.com/llvm/llvm-project)
+### [rust](https://github.com/JackChenCJ/JC/releases/tag/rust)
+- [官方](https://rust-lang.org/)
+- [二进制下载](https://rust-lang.org/tools/install/)
+- [github](https://github.com/rust-lang/rust)
