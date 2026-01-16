@@ -70,4 +70,5 @@
 ### [python](https://github.com/JackChenCJ/JC/releases/tag/python)
 - [官方](https://www.python.org/)
 - [二进制下载](https://www.python.org/downloads/)
+- [二进制下载](https://www.python.org/ftp/python/)
 - [github](https://github.com/python)
