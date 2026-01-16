@@ -71,6 +71,7 @@
 - [官方](https://www.python.org/)
 - [二进制下载](https://www.python.org/downloads/)
 - [二进制下载](https://www.python.org/ftp/python/)
+- [get-pip.py](https://bootstrap.pypa.io/)
 - [github](https://github.com/python)
 
 ### [chrome](https://github.com/JackChenCJ/JC/releases/tag/chrome)
