@@ -72,3 +72,11 @@
 - [二进制下载](https://www.python.org/downloads/)
 - [二进制下载](https://www.python.org/ftp/python/)
 - [github](https://github.com/python)
+
+### [chrome](https://github.com/JackChenCJ/JC/releases/tag/chrome)
+- [官方](https://www.google.com/)
+- [分支映射](https://chromiumdash.appspot.com/branches)
+- [官方 driver 二进制下载](https://developer.chrome.com/docs/chromedriver/downloads)
+- [旧版本下载](https://google-chrome.en.uptodown.com/windows/versions)
+- [旧版本下载](https://www.slimjet.com/chrome/google-chrome-old-version.php)
+- [二进制下载](https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html)
