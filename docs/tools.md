@@ -74,6 +74,12 @@
 - [get-pip.py](https://bootstrap.pypa.io/)
 - [github](https://github.com/python)
 
+### [nginx](https://github.com/JackChenCJ/JC/releases/tag/nginx)
+- [官方](https://nginx.org/)
+- [二进制&源码](https://nginx.org/download/)
+- [二进制下载](https://nginx.org/en/download.html)
+- [github](https://github.com/nginx/nginx)
+
 ### [chrome](https://github.com/JackChenCJ/JC/releases/tag/chrome)
 - [官方](https://www.google.com/)
 - [分支映射](https://chromiumdash.appspot.com/branches)
