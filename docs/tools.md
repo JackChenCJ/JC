@@ -74,6 +74,11 @@
 - [get-pip.py](https://bootstrap.pypa.io/)
 - [github](https://github.com/python)
 
+### [nodejs](https://github.com/JackChenCJ/JC/releases/tag/nodejs)
+- [官方](https://nodejs.org/)
+- [二进制下载](https://nodejs.org/zh-cn/download)
+- [github](https://github.com/nodejs/node)
+
 ### [nginx](https://github.com/JackChenCJ/JC/releases/tag/nginx)
 - [官方](https://nginx.org/)
 - [二进制&源码](https://nginx.org/download/)
