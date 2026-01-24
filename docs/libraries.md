@@ -10,3 +10,8 @@
 ### [libdatachannel](https://github.com/JackChenCJ/JC/releases/tag/libdatachannel)
 - [官方](https://libdatachannel.org/)
 - [github](https://github.com/paullouisageneau/libdatachannel)
+
+### [cef](https://github.com/JackChenCJ/JC/releases/tag/cef)
+- [官方](https://bitbucket.org/chromiumembedded/cef/src/master/)
+- [二进制下载](https://cef-builds.spotifycdn.com/index.html)
+- [github](https://github.com/chromiumembedded/cef)
