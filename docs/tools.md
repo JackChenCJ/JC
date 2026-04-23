@@ -92,3 +92,8 @@
 - [旧版本下载](https://google-chrome.en.uptodown.com/windows/versions)
 - [旧版本下载](https://www.slimjet.com/chrome/google-chrome-old-version.php)
 - [二进制下载](https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html)
+
+### [dotnet](https://github.com/JackChenCJ/JC/releases/tag/dotnet)
+- [官网](https://dotnet.microsoft.com/zh-cn/)
+- [二进制下载](https://dotnet.microsoft.com/en-us/download)
+- [github](https://github.com/dotnet)
