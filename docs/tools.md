@@ -97,3 +97,8 @@
 - [官网](https://dotnet.microsoft.com/zh-cn/)
 - [二进制下载](https://dotnet.microsoft.com/en-us/download)
 - [github](https://github.com/dotnet)
+
+### [lua](https://github.com/JackChenCJ/JC/releases/tag/lua)
+- [官网](https://www.lua.org/)
+- [二进制下载](https://luabinaries.sourceforge.net/download.html)
+- [github](https://github.com/lua/lua)
