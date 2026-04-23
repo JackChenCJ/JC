@@ -102,3 +102,9 @@
 - [官网](https://www.lua.org/)
 - [二进制下载](https://luabinaries.sourceforge.net/download.html)
 - [github](https://github.com/lua/lua)
+
+### [php](https://github.com/JackChenCJ/JC/releases/tag/php)
+- [官网](https://www.php.net/)
+- [二进制下载](https://www.php.net/downloads.php)
+- [二进制下载](https://windows.php.net/downloads/releases/archives/)
+- [github](https://github.com/php/php-src)
