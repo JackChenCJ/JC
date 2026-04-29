@@ -15,3 +15,8 @@
 - [官方](https://bitbucket.org/chromiumembedded/cef/src/master/)
 - [二进制下载](https://cef-builds.spotifycdn.com/index.html)
 - [github](https://github.com/chromiumembedded/cef)
+
+### [lua](https://github.com/JackChenCJ/JC/releases/tag/lua)
+- [官网](https://www.lua.org/)
+- [二进制下载](https://luabinaries.sourceforge.net/download.html)
+- [github](https://github.com/lua/lua)
