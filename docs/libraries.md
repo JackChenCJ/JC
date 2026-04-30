@@ -20,3 +20,6 @@
 - [官网](https://www.lua.org/)
 - [二进制下载](https://luabinaries.sourceforge.net/download.html)
 - [github](https://github.com/lua/lua)
+
+### [crashpad](https://github.com/JackChenCJ/JC/releases/tag/crashpad)
+- [官方](https://chromium.googlesource.com/crashpad/crashpad)
