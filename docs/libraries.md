@@ -29,3 +29,9 @@
 - [官方](https://webrtc.github.io/webrtc-org/native-code/development/)
 - [二进制](https://github.com/shiguredo-webrtc-build/webrtc-build/tree/master)
 - [官方构建](https://webrtc.github.io/webrtc-org/native-code/development/)
+
+### [ffmpeg](https://github.com/JackChenCJ/JC/releases/tag/ffmpeg)
+- [FFmpeg 官网](https://www.ffmpeg.org/)
+- [FFmpeg GitHub](https://github.com/FFmpeg/FFmpeg)
+- [二进制下载](https://github.com/BtbN/FFmpeg-Builds)
+- [二进制下载（非官方）](https://www.gyan.dev/ffmpeg/builds/)
