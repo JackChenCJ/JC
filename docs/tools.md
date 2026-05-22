@@ -113,3 +113,11 @@
 - [官网](https://www.php.net/)
 - [二进制下载](https://github.com/protocolbuffers/protobuf/releases)
 - [github](https://github.com/protocolbuffers/protobuf)
+
+### [dump_syms](https://github.com/JackChenCJ/JC/releases/tag/dump_syms)
+- [二进制下载](https://github.com/mozilla/dump_syms/releases)
+- [github](https://github.com/mozilla/dump_syms)
+
+### [minidump](https://github.com/JackChenCJ/JC/releases/tag/minidump)
+- [二进制下载](https://github.com/rust-minidump/rust-minidump/releases)
+- [github](https://github.com/rust-minidump/rust-minidump)
