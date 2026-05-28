@@ -35,3 +35,8 @@
 - [FFmpeg GitHub](https://github.com/FFmpeg/FFmpeg)
 - [二进制下载](https://github.com/BtbN/FFmpeg-Builds)
 - [二进制下载（非官方）](https://www.gyan.dev/ffmpeg/builds/)
+
+### [directx](https://github.com/JackChenCJ/JC/releases/tag/directx)
+- [官方](https://www.microsoft.com/en-us/download/details.aspx?id=35)
+- [二进制下载](https://www.microsoft.com/en-us/download/details.aspx?id=6812)
+- [二进制下载（非官方）](https://archive.org/details/directxsdks)
