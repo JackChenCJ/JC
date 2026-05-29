@@ -49,4 +49,5 @@
 ### [glfw](https://github.com/JackChenCJ/JC/releases/tag/glfw)
 - [官方](https://www.opengl.org/)
 - [二进制下载](https://www.glfw.org/download.html)
+- [二进制下载](https://github.com/glfw/glfw/releases)
 - [github](https://github.com/glfw/glfw)
