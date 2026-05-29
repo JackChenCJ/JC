@@ -40,3 +40,13 @@
 - [官方](https://www.microsoft.com/en-us/download/details.aspx?id=35)
 - [二进制下载](https://www.microsoft.com/en-us/download/details.aspx?id=6812)
 - [二进制下载（非官方）](https://archive.org/details/directxsdks)
+
+### [opengl](https://github.com/JackChenCJ/JC/releases/tag/opengl)
+- [官方](https://www.opengl.org/)
+- [glad](https://glad.dav1d.de/)
+- [glad github](https://github.com/Dav1dde/glad/tree/c)
+
+### [glfw](https://github.com/JackChenCJ/JC/releases/tag/glfw)
+- [官方](https://www.opengl.org/)
+- [二进制下载](https://www.glfw.org/download.html)
+- [github](https://github.com/glfw/glfw)
