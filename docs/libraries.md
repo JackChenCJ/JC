@@ -67,4 +67,5 @@
 ### [livekit](https://github.com/JackChenCJ/JC/releases/tag/livekit)
 - [官方](https://docs.livekit.io/intro/overview/)
 - [二进制下载](https://github.com/livekit/livekit/releases)
+- [SDK 二进制下载](https://github.com/livekit/rust-sdks/releases)
 - [github](https://github.com/livekit)
