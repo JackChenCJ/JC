@@ -68,3 +68,8 @@
 - [官方](https://docs.livekit.io/intro/overview/)
 - [SDK 二进制下载](https://github.com/livekit/rust-sdks/releases)
 - [github](https://github.com/livekit)
+
+### [qt](https://github.com/JackChenCJ/JC/releases/tag/qt)
+- [官方](https://www.qt.io/)
+- [SDK 二进制下载](https://www.qt.io/development/download)
+- [github](https://github.com/qt)
