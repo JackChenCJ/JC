@@ -146,3 +146,9 @@
 - [二进制下载](https://github.com/livekit/livekit/releases)
 - [CLI 二进制下载](https://github.com/livekit/livekit-cli/releases)
 - [github](https://github.com/livekit)
+
+### [httpd](https://github.com/JackChenCJ/JC/releases/tag/httpd)
+- [官方](https://httpd.apache.org/)
+- [二进制下载](https://www.apachelounge.com/download/)
+- [二进制下载](https://www.wampserver.com/)
+- [github](https://github.com/apache/httpd)
