@@ -86,3 +86,8 @@
 
 ### [libxml2](https://github.com/JackChenCJ/JC/releases/tag/libxml2)
 - [github](https://github.com/GNOME/libxml2.git)
+
+### [zlib](https://github.com/JackChenCJ/JC/releases/tag/zlib)
+- [官方](https://zlib.net/)
+- [二进制下载](https://github.com/madler/zlib/releases)
+- [github](https://github.com/madler/zlib)
