@@ -83,3 +83,6 @@
 - [官方](https://libexpat.github.io/)
 - [二进制下载](https://github.com/libexpat/libexpat/releases)
 - [github](https://github.com/libexpat/libexpat.git)
+
+### [libxml2](https://github.com/JackChenCJ/JC/releases/tag/libxml2)
+- [github](https://github.com/GNOME/libxml2.git)
