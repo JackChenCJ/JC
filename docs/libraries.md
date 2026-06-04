@@ -78,3 +78,8 @@
 - [官方](https://opencv.org/)
 - [二进制下载](https://github.com/opencv/opencv/releases)
 - [github](https://github.com/opencv/opencv)
+
+### [expat](https://github.com/JackChenCJ/JC/releases/tag/expat)
+- [官方](https://libexpat.github.io/)
+- [二进制下载](https://github.com/libexpat/libexpat/releases)
+- [github](https://github.com/libexpat/libexpat.git)
