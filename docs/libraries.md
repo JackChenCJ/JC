@@ -72,6 +72,7 @@
 ### [qt](https://github.com/JackChenCJ/JC/releases/tag/qt)
 - [官方](https://www.qt.io/)
 - [二进制下载](https://www.qt.io/development/download)
+- [二进制下载](https://www.qt.io/development/download-qt-installer-oss)
 - [github](https://github.com/qt)
 
 ### [opencv](https://github.com/JackChenCJ/JC/releases/tag/opencv)
@@ -91,3 +92,8 @@
 - [官方](https://zlib.net/)
 - [二进制下载](https://github.com/madler/zlib/releases)
 - [github](https://github.com/madler/zlib)
+
+### [pcre2](https://github.com/JackChenCJ/JC/releases/tag/pcre2)
+- [官方](https://zlib.net/)
+- [二进制下载](https://github.com/madler/zlib/releases)
+- [github](https://github.com/PCRE2Project/pcre2.git)
