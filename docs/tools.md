@@ -35,6 +35,10 @@
 - [二进制下载](https://github.com/mesonbuild/meson/releases)
 - [github](https://github.com/mesonbuild/meson)
 
+### [android](https://github.com/JackChenCJ/JC/releases/tag/android)
+- [官方](https://developer.android.com/studio)
+- [二进制下载](https://developer.android.com/studio)
+
 ### [ndk](https://github.com/JackChenCJ/JC/releases/tag/ndk)
 - [官方](https://developer.android.com/ndk)
 - [二进制下载](https://developer.android.com/ndk/downloads)
