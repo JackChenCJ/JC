@@ -95,5 +95,10 @@
 
 ### [pcre2](https://github.com/JackChenCJ/JC/releases/tag/pcre2)
 - [官方](https://zlib.net/)
-- [二进制下载](https://github.com/madler/zlib/releases)
+- [二进制下载](https://github.com/PCRE2Project/pcre2/releases)
 - [github](https://github.com/PCRE2Project/pcre2.git)
+
+### [curl](https://github.com/JackChenCJ/JC/releases/tag/curl)
+- [官方](https://curl.se/)
+- [二进制下载](https://github.com/curl/curl/releases)
+- [github](https://github.com/curl/curl.git)
