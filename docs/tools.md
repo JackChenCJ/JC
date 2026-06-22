@@ -114,7 +114,7 @@
 - [github](https://github.com/php/php-src)
 
 ### [protobuf](https://github.com/JackChenCJ/JC/releases/tag/protobuf)
-- [官网](https://www.php.net/)
+- [官网](https://protobuf.dev/)
 - [二进制下载](https://github.com/protocolbuffers/protobuf/releases)
 - [github](https://github.com/protocolbuffers/protobuf)
 
