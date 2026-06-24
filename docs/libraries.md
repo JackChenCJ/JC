@@ -117,6 +117,15 @@
 - [二进制下载](https://artifacts.videolan.org/x264/)
 - [源码](https://code.videolan.org/videolan/x264)
 
-### [x265](https://github.com/JackChenCJ/JC/releases/tag/x265)
-- [官网](https://bitbucket.org/multicoreware/x265_git/)
-- [源码](https://bitbucket.org/multicoreware/x265_git/src/master/)
+### [opus](https://github.com/JackChenCJ/JC/releases/tag/opus)
+- [官网](https://opus-codec.org/)
+- [二进制下载](https://github.com/xiph/opus/releases/tag/v1.5.2)
+- [github](https://github.com/xiph/opus)
+
+### [fdk-aac](https://github.com/JackChenCJ/JC/releases/tag/fdk-aac)
+- [官网](https://sourceforge.net/projects/opencore-amr/)
+- [github](https://github.com/mstorsjo/fdk-aac)
+
+### [mp3lame](https://github.com/JackChenCJ/JC/releases/tag/mp3lame)
+- [官网](https://lame.sourceforge.io/)
+- [源码](https://sourceforge.net/projects/lame/files/lame/)
