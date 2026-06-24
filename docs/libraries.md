@@ -116,3 +116,7 @@
 - [官网](https://www.videolan.org/developers/x264.html)
 - [二进制下载](https://artifacts.videolan.org/x264/)
 - [源码](https://code.videolan.org/videolan/x264)
+
+### [x265](https://github.com/JackChenCJ/JC/releases/tag/x265)
+- [官网](https://bitbucket.org/multicoreware/x265_git/)
+- [源码](https://bitbucket.org/multicoreware/x265_git/src/master/)
