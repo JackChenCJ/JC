@@ -107,3 +107,12 @@
 - [官网](https://protobuf.dev/)
 - [二进制下载](https://github.com/protocolbuffers/protobuf/releases)
 - [github](https://github.com/protocolbuffers/protobuf)
+
+### [dav1d](https://github.com/JackChenCJ/JC/releases/tag/dav1d)
+- [官网](https://code.videolan.org/videolan)
+- [源码](https://code.videolan.org/videolan/dav1d)
+
+### [x264](https://github.com/JackChenCJ/JC/releases/tag/x264)
+- [官网](https://www.videolan.org/developers/x264.html)
+- [二进制下载](https://artifacts.videolan.org/x264/)
+- [源码](https://code.videolan.org/videolan/x264)
