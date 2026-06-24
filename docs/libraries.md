@@ -129,3 +129,12 @@
 ### [mp3lame](https://github.com/JackChenCJ/JC/releases/tag/mp3lame)
 - [官网](https://lame.sourceforge.io/)
 - [源码](https://sourceforge.net/projects/lame/files/lame/)
+
+### [glog](https://github.com/JackChenCJ/JC/releases/tag/glog)
+- [官网](https://google.github.io/glog/stable/)
+- [github](https://github.com/google/glog.git)
+
+### [gflags](https://github.com/JackChenCJ/JC/releases/tag/gflags)
+- [官网](https://gflags.github.io/gflags/)
+- [二进制下载](https://github.com/gflags/gflags/releases)
+- [github](https://github.com/gflags/gflags.git)
