@@ -152,3 +152,8 @@
 - [官网](https://yaml.org/)
 - [二进制下载](https://github.com/jbeder/yaml-cpp/releases)
 - [github](https://github.com/jbeder/yaml-cpp)
+
+### [abseil](https://github.com/JackChenCJ/JC/releases/tag/abseil)
+- [官网](https://abseil.io/)
+- [二进制下载](https://github.com/abseil/abseil-cpp/releases)
+- [github](https://github.com/abseil/abseil-cpp)
