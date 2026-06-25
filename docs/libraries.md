@@ -144,6 +144,6 @@
 - [二进制下载](https://github.com/fmtlib/fmt/releases)
 - [github](https://github.com/fmtlib/fmt)
 
-### [fmt](https://github.com/JackChenCJ/JC/releases/tag/libuv)
+### [libuv](https://github.com/JackChenCJ/JC/releases/tag/libuv)
 - [官网](https://libuv.org/)
 - [github](https://github.com/libuv/libuv)
