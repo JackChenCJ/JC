@@ -147,3 +147,8 @@
 ### [libuv](https://github.com/JackChenCJ/JC/releases/tag/libuv)
 - [官网](https://libuv.org/)
 - [github](https://github.com/libuv/libuv)
+
+### [yaml-cpp](https://github.com/JackChenCJ/JC/releases/tag/yaml-cpp)
+- [官网](https://yaml.org/)
+- [二进制下载](https://github.com/jbeder/yaml-cpp/releases)
+- [github](https://github.com/jbeder/yaml-cpp)
