@@ -138,3 +138,8 @@
 - [官网](https://gflags.github.io/gflags/)
 - [二进制下载](https://github.com/gflags/gflags/releases)
 - [github](https://github.com/gflags/gflags.git)
+
+### [fmt](https://github.com/JackChenCJ/JC/releases/tag/fmt)
+- [官网](https://fmt.dev/)
+- [二进制下载](https://github.com/fmtlib/fmt/releases)
+- [github](https://github.com/fmtlib/fmt)
