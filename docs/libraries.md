@@ -157,3 +157,7 @@
 - [官网](https://abseil.io/)
 - [二进制下载](https://github.com/abseil/abseil-cpp/releases)
 - [github](https://github.com/abseil/abseil-cpp)
+
+### [rapidjson](https://github.com/JackChenCJ/JC/releases/tag/rapidjson)
+- [官网](http://rapidjson.org/)
+- [github](https://github.com/Tencent/rapidjson)
