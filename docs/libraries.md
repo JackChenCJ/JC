@@ -161,3 +161,15 @@
 ### [rapidjson](https://github.com/JackChenCJ/JC/releases/tag/rapidjson)
 - [官网](http://rapidjson.org/)
 - [github](https://github.com/Tencent/rapidjson)
+
+### [nlohmann-json](https://github.com/JackChenCJ/JC/releases/tag/nlohmann-json)
+- [官网](https://json.nlohmann.me/)
+- [github](https://github.com/nlohmann/json)
+
+### [websocketpp](https://github.com/JackChenCJ/JC/releases/tag/websocketpp)
+- [官网](http://www.zaphoyd.com/websocketpp)
+- [github](https://github.com/zaphoyd/websocketpp)
+
+### [asio](https://github.com/JackChenCJ/JC/releases/tag/asio)
+- [官网](http://think-async.com/Asio)
+- [github](https://github.com/chriskohlhoff/asio)
