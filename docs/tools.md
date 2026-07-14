@@ -156,3 +156,8 @@
 - [二进制下载](https://www.apachelounge.com/download/)
 - [二进制下载](https://www.wampserver.com/)
 - [github](https://github.com/apache/httpd)
+
+### [assimp](https://github.com/JackChenCJ/JC/releases/tag/assimp)
+- [官方](https://www.assimp.org/)
+- [二进制下载](https://github.com/assimp/assimp/releases)
+- [github](https://github.com/assimp/assimp)

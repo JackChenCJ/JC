@@ -180,3 +180,8 @@
 ### [unity-plugin](https://github.com/JackChenCJ/JC/releases/tag/unity-plugin)
 - [官网](https://docs.unity3d.com/Manual/native-plugin-interface.html)
 - [github](https://github.com/Unity-Technologies/NativeRenderingPlugin.git)
+
+### [assimp](https://github.com/JackChenCJ/JC/releases/tag/assimp)
+- [官方](https://www.assimp.org/)
+- [二进制下载](https://github.com/assimp/assimp/releases)
+- [github](https://github.com/assimp/assimp)
