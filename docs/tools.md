@@ -161,3 +161,12 @@
 - [官方](https://www.assimp.org/)
 - [二进制下载](https://github.com/assimp/assimp/releases)
 - [github](https://github.com/assimp/assimp)
+
+### [shader](https://github.com/JackChenCJ/JC/releases/tag/shader)
+- [glslang-二进制下载](https://github.com/KhronosGroup/glslang/releases)
+- [glslang-github](https://github.com/KhronosGroup/glslang.git)
+- [dxc-二进制下载](https://github.com/microsoft/DirectXShaderCompiler/releases)
+- [dxc-github](https://github.com/microsoft/DirectXShaderCompiler.git)
+- [spirv-二进制下载](https://github.com/KhronosGroup/SPIRV-Cross/releases)
+- [spirv-github](https://github.com/KhronosGroup/SPIRV-Cross.git)
+- [naga-github](https://github.com/gfx-rs/wgpu.git)
