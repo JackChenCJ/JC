@@ -185,3 +185,7 @@
 - [官方](https://www.assimp.org/)
 - [二进制下载](https://github.com/assimp/assimp/releases)
 - [github](https://github.com/assimp/assimp)
+
+### [stb](https://github.com/JackChenCJ/JC/releases/tag/stb)
+- [官网](https://nothings.org/)
+- [github](https://github.com/nothings/stb)
