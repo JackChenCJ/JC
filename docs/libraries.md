@@ -189,3 +189,8 @@
 ### [stb](https://github.com/JackChenCJ/JC/releases/tag/stb)
 - [官网](https://nothings.org/)
 - [github](https://github.com/nothings/stb)
+
+### [stb](https://github.com/JackChenCJ/JC/releases/tag/fluidsynth)
+- [官网](https://www.fluidsynth.org/)
+- [二进制下载](https://github.com/FluidSynth/fluidsynth/releases)
+- [github](https://github.com/FluidSynth/fluidsynth)
