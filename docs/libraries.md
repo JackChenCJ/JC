@@ -190,7 +190,13 @@
 - [官网](https://nothings.org/)
 - [github](https://github.com/nothings/stb)
 
-### [stb](https://github.com/JackChenCJ/JC/releases/tag/fluidsynth)
+### [fluidsynth](https://github.com/JackChenCJ/JC/releases/tag/fluidsynth)
 - [官网](https://www.fluidsynth.org/)
 - [二进制下载](https://github.com/FluidSynth/fluidsynth/releases)
 - [github](https://github.com/FluidSynth/fluidsynth)
+
+### [soundtouch](https://github.com/JackChenCJ/JC/releases/tag/soundtouch)
+- [官网](https://www.surina.net/soundtouch/)
+
+### [kissfft](https://github.com/JackChenCJ/JC/releases/tag/kissfft)
+- [github](https://github.com/mborgerding/kissfft)
