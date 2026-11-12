@@ -80,7 +80,7 @@
 - [fbx](https://en.wikipedia.org/wiki/FBX) 3D 模型
 - [gltf / glb](https://en.wikipedia.org/wiki/GlTF) 3D 模型
 
-### [test-ai_model](https://github.com/JackChenCJ/JC/releases/tag/test-ai_model)
+### [ai_model](https://github.com/JackChenCJ/JC/releases/tag/test-ai_model)
 - 下载源
   - [asr](https://github.com/k2-fsa/sherpa-onnx/releases/tag/asr-models)
   - [tts](https://github.com/k2-fsa/sherpa-onnx/releases/tag/tts-models)
