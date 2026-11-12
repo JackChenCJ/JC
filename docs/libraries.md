@@ -200,3 +200,8 @@
 
 ### [kissfft](https://github.com/JackChenCJ/JC/releases/tag/kissfft)
 - [github](https://github.com/mborgerding/kissfft)
+
+### [sherpa-onnx](https://github.com/JackChenCJ/JC/releases/tag/sherpa-onnx)
+- [官网](https://k2-fsa.github.io/sherpa/onnx/index.html)
+- [github](https://github.com/k2-fsa/sherpa-onnx)
+- [二进制下载](https://github.com/k2-fsa/sherpa-onnx/releases)

@@ -6,3 +6,4 @@
 - [工具](./docs/tools.md)
 - [库](./docs/libraries.md)
 - [仓库](./docs/repositories.md)
+- [资源](./docs/resources.md)
